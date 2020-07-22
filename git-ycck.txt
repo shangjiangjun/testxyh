@@ -1,2 +1,14 @@
 github.com 创建一个项目：testxyh
 https://github.com/shangjiangjun/testxyh.git
+
+git init
+
+git status
+
+git  add.
+
+git commit -m "解释"
+
+git remote add origin git@github.com:xxx/project.git
+
+get push -u origin master
